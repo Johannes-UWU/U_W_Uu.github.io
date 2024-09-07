@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Send the foods no fucking errors... yeh? no? no? yeh? okay. 
-    fetch('https://script.google.com/macros/s/AKfycbwezs0uCH4hZhL3kUj3FRUEanh7DesOsXmH-jP9-dvXRvDypQEOaJe8f4lD_ttEBuJR/exec', {
+    fetch('https://script.google.com/macros/s/AKfycbzqekeX53oj3vuog6vidUtGjkw4pyFwtJoC2A_ggk15hHN-9jNtClFrkOPcxT5olwDl/exec', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
