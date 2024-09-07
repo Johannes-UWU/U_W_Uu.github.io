@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Send the foods no fucking errors... yeh? no? no? yeh? okay. 
     fetch('https://script.google.com/macros/s/AKfycbxOh9Enn1vqPxeqOZf_yqY0rscTCPJiATUKqnGdD4Kvmv6a-RuEZKQEdwPNFTZc9LRx/exec', {
+      mode: 'no-cors',
       method: 'POST',
-      mode: 'no-cors'
       headers: {
         'Content-Type': 'application/json',
       },
