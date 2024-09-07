@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../activities"
+		},
+		{
+			"path": "../css"
+		}
+	]
+}
