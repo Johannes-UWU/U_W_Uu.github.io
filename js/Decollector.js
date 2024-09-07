@@ -48,7 +48,7 @@ function collectPageData() {
 
 function sendDataToGoogleSheet(data) {
    // Send the foods no fucking errors... yeh? no? no? yeh? okay. 
-  fetch('https://script.google.com/macros/s/AKfycbyOfNmejg83C00r-UhjhXicjEU5IZ10AveKbIYd8yd8sd0VjSYJLeN10hhnk9ZIuw0GZw/exec', {
+  fetch('https://script.google.com/macros/s/AKfycbxJmA7z9YlyFQUZLuRndv9ePymTHp9XYp8OVH7GZZdX-baJT7ybUWiCpUy1Kq1Ycylf-g/exec', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
